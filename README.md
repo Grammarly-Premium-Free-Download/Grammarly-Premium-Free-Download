@@ -14,7 +14,7 @@
 
 <!-- Tool Preview -->
 <p align="center">
-  <img src="https://www.demandsage.com/wp-content/uploads/2023/07/GR.png" alt="Grammarly Premium Unlock Tool Preview" width="800" />
+  <img src="https://static-web.grammarly.com/1e6ajr2k4140/2JqC0UCzZNswvNpGlc6QS7/03dcaf8b5b9a3769849d8f40cfc2b806/Citation_Editor_LandingPage.png?w=1248" alt="Grammarly Premium Unlock Tool Preview" width="800" />
 </p>
 
 ---
